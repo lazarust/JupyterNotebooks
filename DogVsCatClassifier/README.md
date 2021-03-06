@@ -8,14 +8,14 @@ from a python file to a jupyter notebook.
 
 The figure below shows the distribution of images with 1 being cat and 0 being dog.
 
-![Distribution Chart](/images/dist_chart.png)
+![Distribution Chart](./images/dist_chart.png)
 
-![Sample Cat Image](/images/sample_cat.png)
+![Sample Cat Image](./images/sample_cat.png)
 
 The accuracy after running the model for 30 epochs was around 82%
 
-![Accuract Chart](/images/accuracy_chart.png)
+![Accuract Chart](./images/accuracy_chart.png)
 
 When running this model on a final generated test set 8 out of 10 of the returned values was correct which is expected given the accuracy. 
 
-![Test Images](/images/test_gen.png)
+![Test Images](./images/test_gen.png)
