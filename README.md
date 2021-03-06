@@ -3,6 +3,6 @@ This is a repository to hold all my Jupyter Notebook experiments and projects. P
 
 | Project | Description |
 ---------- | --------------
-| [Book Recommendation Engine](https://github.com/lazarust/JupyterNotebooks/tree/main/BookRecommender) | Experiment for using the KNN algorithim to recommend books based off of liked books. |
-| [Dog VS Cat Classifier](https://github.com/lazarust/JupyterNotebooks/tree/main/DogVsCatClassifier) | Familiarize myself with using Tensorflow for image classification. |
-| [News Text Summarization](https://github.com/lazarust/JupyterNotebooks/tree/main/NewsSummarization) | This is the proof of concept notebook for the project stored in [this repository](https://github.com/lazarust/NewsTextSummarization). |
+| [Book Recommendation Engine](./BookRecommender) | Experiment for using the KNN algorithim to recommend books based off of liked books. |
+| [Dog VS Cat Classifier](./DogVsCatClassifier) | Familiarize myself with using Tensorflow for image classification. |
+| [News Text Summarization](./NewsSummarization) | This is the proof of concept notebook for the project stored in [this repository](https://github.com/lazarust/NewsTextSummarization). |
