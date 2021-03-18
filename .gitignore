@@ -133,3 +133,5 @@ dmypy.json
 DogVsCatClassifier/data/
 
 *.h5
+
+.idea/
