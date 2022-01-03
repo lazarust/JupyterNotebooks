@@ -2,4 +2,4 @@
 
 | Project | Description |
 ---------- | --------------
-| [Summarizing Steam Reviews](./SummarizingSteamReviews) | Notebook I expermiented with summarizing steam reviews. |
+| [Summarizing Steam Reviews](./SummarizingSteamReviews/notebook.ipynb) | Notebook I expermiented with summarizing steam reviews. |
